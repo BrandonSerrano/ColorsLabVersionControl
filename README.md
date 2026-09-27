@@ -1,7 +1,9 @@
 # ColorsLabVersionControl
 
 ## 1. Colors Lab Description
-The COLORS application is a web application 
+The COLORS application is a web application on testing and running a contacts based configuration.
+It simply adds colors to the database and retrieves information.
+It will also utilize a simple Login API from your web server to login.
 
 ## 2. Technologies Used
 * **Languages:** PHP, HTML, CSS, JavaScript
